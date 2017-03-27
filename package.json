@@ -19,7 +19,7 @@
   },
   "keywords": [
     "loopback",
-    "sockket",
+    "socket.io",
     "geoposition"
   ],
   "author": "hmvalcarcel@gmail.com",
