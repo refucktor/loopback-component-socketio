@@ -1,4 +1,4 @@
 'use strict';
-module.exports = function (Test) {
+module.exports = function (Geoposition) {
 
 };
