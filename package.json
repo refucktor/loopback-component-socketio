@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-socketio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Loopback component for socket.io integration for Geoposition models.",
   "main": "index.js",
   "scripts": {
